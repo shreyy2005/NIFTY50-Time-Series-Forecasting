@@ -11,9 +11,10 @@ This repository contains code for forecasting NIFTY 50 stock prices using LSTM (
 - Evaluation metrics for assessing model performance.
 - Visualizations to interpret and analyze forecasted results.
 
-Results
+## Results
 Include insights and visualizations from your model's forecasts here.
 
-Contributors
+## Contributors
 Shreyas Dole.
+
 Mentors :- Rohit Andhale & Arun Nadar. 
