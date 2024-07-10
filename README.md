@@ -1,5 +1,3 @@
-
-
 # NIFTY 50 Time Series Forecasting with LSTM
 
 ## Overview
@@ -15,6 +13,9 @@ This repository contains code for forecasting NIFTY 50 stock prices using LSTM (
 Include insights and visualizations from your model's forecasts here.
 
 ## Contributors
-Shreyas Dole.
+- Shreyas Dole
+- **Mentors:** Rohit Andhale & Arun Nadar
 
-Mentors :- Rohit Andhale & Arun Nadar. 
+## Dataset
+The dataset used for this project can be found on Kaggle: [NIFTY 50 1-Minute Data](https://www.kaggle.com/datasets/debashis74017/nifty-50-minute-data)
+
